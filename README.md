@@ -1,0 +1,1 @@
+# Finding-charactersticks-Vibration-using-the-dataset
